@@ -11,9 +11,9 @@ Iam the weird person with a pumpkin shaped skull LMAO
      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'   
 ```
 
-Discord: <b>[Floriannn#1008](https://discord.bio/p/xxAROX)</b>
+Discord: <b>[Floriannn#1008]</b>
 
-XBOX-Live: <b>[xxJqn](https://account.xbox.com/de-de/Profile?gamerTag=xxEXTIC)</b>
+XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxEXTIC)</b>
 
 
 ### Tools
@@ -31,6 +31,7 @@ XBOX-Live: <b>[xxJqn](https://account.xbox.com/de-de/Profile?gamerTag=xxEXTIC)</
 <img alt="SQL" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" width="50" height="50"></img>
 <img alt="Java" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="50" height="50"></img>
 <img alt="Node JS" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="50" height="50"></img>
+<img alt="Angular" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" width="50" height="50"></img>
 <img alt="HTML" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programmiersprachen-symbol-by-vexels.png" width="50" height="50"></img>
 <!-- <img alt="" src="" width="50" height="50"></img> -->
 
@@ -54,4 +55,3 @@ XBOX-Live: <b>[xxJqn](https://account.xbox.com/de-de/Profile?gamerTag=xxEXTIC)</
 
 [![Github Follow](https://img.shields.io/github/followers/xxarox?label=Follow&style=social)](https://github.com/afloriannn)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arox_xx?label=Follow&style=social)](https://twitter.com/fhexix)
-<!--a href="https://stimomc.de/discord"><img src="https://discordapp.com/api/guilds/664707991974576137/embed.png" alt="Discord server"/></a-->

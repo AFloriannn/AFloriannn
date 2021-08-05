@@ -1,7 +1,5 @@
 Hi there 👋
 
-Iam the weird person with a pumpkin shaped skull LMAO
-
 ```
       A        A        A        A        A        A        A        A        A        A        A        A        A    
      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\   
@@ -13,11 +11,11 @@ Iam the weird person with a pumpkin shaped skull LMAO
 
 Discord: <b>[Floriannn#1008]</b>
 
-XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxEXTIC)</b>
+XBOX-Live: <b>[xxEXTIC](https://account.xbox.com/de-de/Profile?gamerTag=xxEXTIC)</b>
 
 
 ### Tools
-<img alt="IntelliJ IDEA" src="" width="50" height="50"></img>
+<img alt="IntelliJ IDEA" src="https://www.comparasoftware.com/wp-content/uploads/2018/09/logoIntelliJ-IDEA.png" width="50" height="50"></img>
 <img alt="PhpStorm" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" width="50" height="50"></img>
 <img alt="WebStorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width="50" height="50"></img>
 <img alt="PuTTY" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" width="50" height="50"></img>
